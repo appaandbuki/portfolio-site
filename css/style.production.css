@@ -282,3 +282,6 @@ button:hover, button:focus, .button:hover, .button:focus {
   -webkit-animation: 34s cloud-move-reverse infinite alternate linear;
           animation: 34s cloud-move-reverse infinite alternate linear;
 }
+.header_img {
+  height: 165px;
+}
